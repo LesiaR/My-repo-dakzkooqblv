@@ -2,6 +2,8 @@ Source for exercises: https://otexts.com/fpp3/
 
 Environment: Python 3.7, Google Colab
 
+Note: to get plotly output run notebook in Colab or Jupyter
+
 Topic 1: Introduction to time series analysis
 
 Topic 2: Transformations and decompositions
