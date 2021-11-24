@@ -1,4 +1,5 @@
 Source for exercises: https://otexts.com/fpp3/
+
 Environment: Python 3.7, Google Colab
 
 Topic 1: Introduction to time series analysis
