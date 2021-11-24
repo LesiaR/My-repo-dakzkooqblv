@@ -2,7 +2,7 @@ Source for exercises: https://otexts.com/fpp3/
 
 Environment: Python 3.7, Google Colab
 
-Note: to get plotly output run notebook in Colab or Jupyter
+Note: to get plotly outputs run notebook in Colab or Jupyter
 
 Topic 1: Introduction to time series analysis
 
